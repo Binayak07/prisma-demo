@@ -1,8 +1,6 @@
 # Prisma with Typescript Demonstration
 This project is a handson on Prisma.
 
-#### .env file is intentionally added.
-
 ### Requirements:
 1. Node 20+
 2. Postgres/PGAdmin
