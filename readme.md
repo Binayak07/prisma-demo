@@ -1,7 +1,7 @@
 # Prisma with Typescript Demonstration
 This project is a handson on Prisma.
 
-[.env file is intentionally added.]
+#### .env file is intentionally added.
 
 ### Requirements:
 1. Node 20+
